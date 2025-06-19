@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @blikxoo
+- aka(jordan)
 - 👀 I’m interested in cyber security, Pen testing / Ethical hacking, and website development
 - 🌱 I’m currently learning cyber security
 - 📫 How to reach me discord @blikxo
